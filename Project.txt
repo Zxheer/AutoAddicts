@@ -1,0 +1,4 @@
+Autoaddicts was a second year project completed by Zaheer Ebrahim, Rowen Govender, Jaineel Morker and Andrew Devraj. 
+Students from the University of Johannesburg.
+
+Implementation of a simple shopping cart system
